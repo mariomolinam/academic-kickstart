@@ -16,7 +16,7 @@ header:
   image: ""
 ---
 
-## Publications  
+# Publications  
 
 - **Mario D. Molina**, Nancy Chau, Amanda Rodewald, and Filiz Garip (2022). "How to model the weather-migration link: A machine-learning approach to variable selection in the Mexico-U.S. context". *Journal of Ethnic and Migration Studies* [[article](https://www.tandfonline.com/doi/full/10.1080/1369183X.2022.2100549)] 
 
