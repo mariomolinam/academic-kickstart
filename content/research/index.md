@@ -16,7 +16,8 @@ header:
   image: ""
 ---
 
-# Publications  
+## Publications  
+
 
 - **Mario D. Molina**, Nancy Chau, Amanda Rodewald, and Filiz Garip (2022). "How to model the weather-migration link: A machine-learning approach to variable selection in the Mexico-U.S. context". *Journal of Ethnic and Migration Studies* [[article](https://www.tandfonline.com/doi/full/10.1080/1369183X.2022.2100549)] 
 
@@ -36,7 +37,7 @@ header:
 
 ## Work in Progress
 
-- **Molina, Mario D.**, "To rest on your laurels: Status dynamics and cooperation". (*Revising manuscript*)
+- **Molina, Mario D.**, "To rest on your laurels: Effectiveness and stability of status orders." (*Draft available*)
 
 - Occhiutto, Nicholas and **Mario D. Molina**. “The Social Structure of Asset Bubbles: The Case of the Taxicab Medallion in New York City.” (*Revising manuscript*)
 
