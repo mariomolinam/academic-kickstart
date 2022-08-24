@@ -3,7 +3,7 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`, `strawberry`.
-color_theme = "default"
+color_theme = "ocean"
 # Enable users to switch between day and night mode?
 day_night = true
 
@@ -12,13 +12,13 @@ day_night = true
 font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "department of sociology, social networks, computational social science, cornell university, Mario Molina, Mario D. Molina"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = ""
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = ""
+twitter = "mariomolinam"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -32,7 +32,7 @@ highlight = true
 
 # Enable global LaTeX math rendering?
 #   If false, you can enable it locally on a per page basis.
-math = false
+math = true
 
 # Privacy pack
 #   Show a cookie consent message to visitors
@@ -50,9 +50,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
-phone = "888 888 88 88"
-address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+email = "mdmolina@nyu.edu"
+phone = ""
+address = "1100C, A5, New York University Abu Dhabi, Abu Dhabi"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """Monday 10:00 to 13:00<br>
@@ -113,7 +113,7 @@ gravatar = false
 menu_align_right = false
 
 # Show estimated reading time for posts? (true/false)
-reading_time = true
+reading_time = false
 
 # Display comment count (if commenting enabled in config.toml)? (true/false)
 comment_count = true
