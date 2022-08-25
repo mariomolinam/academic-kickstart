@@ -49,6 +49,6 @@ header:
 
 - Makoi, Kinga and **Mario D. Molina**. "How do conservatives and liberals apply fairness principles when they have information about group membership and the structure of economic opportunity?" (*Data analysis*)
 
-- Mario D. Molina, Nicholas Heiserman, and Mauricio Bucca. "Why migh the affluent level a playing field that advantages them? An experimental approach to the study of redistribution of opportunity." (Research design)
+- **Mario D. Molina**, Nicholas Heiserman, and Mauricio Bucca. "Why migh the affluent level a playing field that advantages them? An experimental approach to the study of redistribution of opportunity." (Research design)
 
 - Bucca, Mauricio and **Mario D. Molina**. "Inequality of opportunity and outcomes, and its effects on the legitimacy of inequality and social cohesion." (*Research design*)
