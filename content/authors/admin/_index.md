@@ -76,7 +76,7 @@ I am a Postdoctoral Associate in the Social Science Division at New York Univers
 
 My research lies at the interface of economic sociology, social networks, and computational social science. I broadly consider how organizational structures and network dynamics impact beliefs about unequal rewards and prosocial behaviors and the mechanisms that feed back to sustain or disrupt these social systems. I study these processes across multiple domains, including reward systems, status hierarchies, social norms, and cultural diversity. 
 
-My approach to research is to choose the methodological tool that fits the theoretical question at hand, a stance motivated by the belief that sociological research should break away from the assumption of general linear reality. This approach has led me to learn different computational and methodological skills, including experimental design, multilevel modeling, network models, machine learning, and natural language processing.
+My approach to research is to choose the methodological tool that fits the theoretical question at hand, which has led me to learn different computational and methodological skills, such as experimental design, multilevel modeling, network models, machine learning, and natural language processing.
 
-You can download {{% staticref "files/cv_mdm.pdf" "newtab" %}}my CV here.{{% /staticref %}}
+You can see {{% staticref "files/cv_mdm.pdf" "newtab" %}}my CV here.{{% /staticref %}}
 
