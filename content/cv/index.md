@@ -8,6 +8,8 @@ title: Curriculum Vitae
 #   4 = Citation
 view: 4
 
+hrefTargetBlank: true
+
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
@@ -19,4 +21,4 @@ header:
   image: ""
 ---
 
-You can download {{% staticref "files/cv.pdf" %}}my CV here{{% /staticref %}}.
+You can download {{% staticref "files/cv_mdm.pdf" "newtab" %}}my CV here{{% /staticref %}}.

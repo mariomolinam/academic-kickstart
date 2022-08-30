@@ -20,23 +20,23 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-Research Interests:
-- Economic Sociology
-- Social Networks
-- Social Stratification
-- Computational Social Science
+#Research Interests:
+#- Economic Sociology
+#- Social Networks
+#- Social Stratification
+#- Computational Social Science
 
-# education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+ courses:
+  - course: Ph.D. in Sociology
+    institution: Cornell University
+    year: 2020
+  - course: M.A. in Sociology
+    institution: Universidad Catolica de Chile
+    year: 2012
+  - course: B.A. in Philosophy
+    institution: Universidad de los Andes (Chile)
+    year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -63,7 +63,7 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "mdmolina@nyu.edu"
-# address: 334 Uris Hall, Ithaca, NY
+address: 1100C, Social Science Building (A5), New York University Abu Dhabi, Abu Dhabi
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -72,6 +72,11 @@ user_groups:
 - Visitors
 ---
 
-I am a Postdoctoral Associate in the Social Science Division at New York University Abu Dhabi. I study the social dynamics of cooperation and social inequality and my research centers on reward systems, social norms, and cultural integration, with an emphasis on the individual mechanisms that contribute to the existence of complex social structures. I rely on different statistical and computational tools, including online experiments, panel data, machine learning, and natural language processing.
+I am a Postdoctoral Associate in the Social Science Division at New York University Abu Dhabi. 
 
-Before joining NYUAD, I completed my doctoral studies in the Department of Sociology at Cornell University. I also hold a B.A. in Education (2008) and B.A. in Philosophy (2009) from Universidad de los Andes (Chile) and a M.A. in Sociology (2012) from Universidad Catolica de Chile. 
+My research lies at the interface of economic sociology, social networks, and computational social science. I broadly consider how organizational structures and network dynamics impact beliefs about unequal rewards and prosocial behaviors and the mechanisms that feed back to sustain or disrupt these social systems. I study these processes across multiple domains, including reward systems, status hierarchies, social norms, and cultural diversity. 
+
+My approach to research is to choose the methodological tool that fits the theoretical question at hand, a stance motivated by the belief that sociological research should break away from the assumption of general linear reality. This approach has led me to learn different computational and methodological skills, including experimental design, multilevel modeling, network models, machine learning, and natural language processing.
+
+You can download {{% staticref "files/cv_mdm.pdf" "newtab" %}}my CV here.{{% /staticref %}}
+

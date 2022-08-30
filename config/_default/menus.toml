@@ -6,7 +6,7 @@
 [[main]]
   name = "Home"
   url = "#about"
-  weight = 100
+  weight = 1
 
 #[[main]]
 #  name = "Posts"
@@ -16,17 +16,21 @@
 [[main]]
   name = "Research"
   url = "research/"
-  weight = 120
-
-#[[main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 30
+  weight = 2
 
 [[main]]
-  name = "CV"
-  url = "cv/"
-  weight = 130
+  name = "Job Market Paper"
+  url = "job_market_paper/"
+  weight = 3
+
+# [[main]]
+  #name = "CV"
+  # hrefTargetBlank = true
+  #identifier = "ext-CV"
+  #url = "cv/"
+  # target = "_blank"
+  # url = "files/cv_mdm.pdf"
+  #weight = 100
 
 #[[main]]
 #  name = "Contact"

@@ -9,7 +9,7 @@ title = "Mario D. Molina"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://mariodmolina.com"
+baseurl = "https://mariodmolina.com/"
 
 # Address
 address = "1100C, A5, New York University Abu Dhabi, UAE."
