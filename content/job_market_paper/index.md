@@ -16,7 +16,7 @@ header:
   image: ""
 ---
 
-## To rest on your laurels: Effectiveness and sustainability of status orders. 
+## To rest on one's laurels: Effectiveness and sustainability of status orders. 
 <a href="/files/molina_draft-aug2022.pdf" target="_blank">Latest version here</a>
 
 
