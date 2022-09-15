@@ -18,7 +18,7 @@ header:
 
 ## Publications  
 ---
-**Mario D. Molina**, Nancy Chau, Amanda Rodewald, and Filiz Garip (2022). "How to model the weather-migration link: A machine-learning approach to variable selection in the Mexico-U.S. context." *Journal of Ethnic and Migration Studies* [[article](https://www.tandfonline.com/doi/full/10.1080/1369183X.2022.2100549)] [[code]]
+**Mario D. Molina**, Nancy Chau, Amanda Rodewald, and Filiz Garip (2022). "How to model the weather-migration link: A machine-learning approach to variable selection in the Mexico-U.S. context." *Journal of Ethnic and Migration Studies* [[article](https://www.tandfonline.com/doi/full/10.1080/1369183X.2022.2100549)] [[code](https://github.com/mariomolinam/climate_change_immigration)]
 
 **Molina, Mario**, Victor Nee, and Hakan Holm (2022), "Cooperation with strangers: Spillover of community norms." *Organization Science* [[article](https://pubsonline.informs.org/doi/10.1287/orsc.2021.1521)] [[replication package](https://github.com/mariomolinam/cooperation_with_strangers)]
 
