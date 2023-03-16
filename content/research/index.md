@@ -36,7 +36,7 @@ Garip, Filiz and **Mario D. Molina** (2021), "Network amplification," chapter 6,
 ---
 
 
-**Molina, Mario D.**, "To rest on your laurels: Effectiveness and stability of status orders." (*Under review*)
+**Molina, Mario D.**, "To rest on one's laurels?: Effectiveness and stability of status orders." (*Under review*)
 
 Drouhot, Lucas, **Mario D. Molina**, and Filiz Garip, "Identity and relational structure among immigrant adolescents in Western Europe." (*Writing*)
 
