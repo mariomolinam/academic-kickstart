@@ -18,10 +18,10 @@
   url = "research/"
   weight = 2
 
-[[main]]
-  name = "Job Market Paper"
-  url = "job_market_paper/"
-  weight = 3
+#[[main]]
+#  name = "Job Market Paper"
+#  url = "job_market_paper/"
+#  weight = 3
 
 # [[main]]
   #name = "CV"
