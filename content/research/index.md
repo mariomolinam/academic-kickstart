@@ -36,7 +36,7 @@ Garip, Filiz and **Mario D. Molina** (2021), "Network amplification," chapter 6,
 ---
 
 
-**Molina, Mario D.**, "To rest on your laurels: Effectiveness and sustainability of status orders." ([Job Market Paper](/job_market_paper))
+**Molina, Mario D.**, "To rest on your laurels: Effectiveness and sustainability of status orders." ([Job Market Paper](*Under review*))
 
 Drouhot, Lucas, **Mario D. Molina**, and Filiz Garip, "Identity and relational structure among immigrant adolescents in Western Europe." (*Writing*)
 
@@ -46,4 +46,4 @@ Asad, Asad, **Mario D. Molina**, and Neil Lewis, Jr., "Profiles of psychological
 
 Pan, Rui, **Mario D. Molina**, and Minsu Park. "Status differences and team disruption among K-pop bands using Wikipedia edits." (*Data analysis*)
 
-Makovi, Kinga and **Mario D. Molina**. "How do conservatives and liberals apply fairness principles when they have information about group membership and the structure of economic opportunity?" (*Data analysis*)
+Makovi, Kinga and **Mario D. Molina**. "Unequal Pay for Unequal Work? Uncertain Performance and Fairness in the Workplace" (*Writing*)
