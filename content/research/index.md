@@ -6,7 +6,7 @@
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view: 4
+view: 1
 
 share: false  # Show social sharing links?
 
@@ -34,7 +34,7 @@ Garip, Filiz and **Mario D. Molina** (2021), "Network amplification," chapter 6,
 
 ## Working Papers 
 ---
-**Molina, Mario D.**, "To rest on one’s laurels? Effectiveness and stability of status orders."
+**Molina, Mario D.** "To rest on one’s laurels? Effectiveness and stability of status orders."
 
 Drouhot, Lucas, **Mario D. Molina**, and Filiz Garip, "Divided in Diversity? Majority-minority ties and cultural difference in friendship networks among European adolescents."
 
@@ -43,6 +43,10 @@ Makovi, Kinga and **Mario D. Molina**. "Unequal Pay for Unequal Work? Opportunit
 
 ## Work in Progress
 ---
+**Molina, Mario D.** "The influence of high-status individuals on group-level cooperation."
+
+**Molina, Mario D.** "Does the cultural environment determine tolerance for inequality?"
+
 Occhiutto, Nicholas and **Mario D. Molina**. “The Social Structure of Asset Bubbles: The Case of the Taxicab Medallion in New York City.”
 
 Asad, Asad, **Mario D. Molina**, and Neil Lewis, Jr. "Profiles of psychological distress among noncitizens in the United States, 2011-2018."
@@ -51,6 +55,4 @@ Pan, Rui, **Mario D. Molina**, and Minsu Park. "Status differences and team disr
 
 Bucca, Mauricio and **Mario D. Molina**. "Exposure to inequality, fairness, and tolerance of inequality. An experimental Approach."
 
-**Molina, Mario D.**. "The influence of high-status individuals on group-level cooperation."
 
-**Molina, Mario D.**. "Does the cultural environment determine tolerance for inequality?"

@@ -57,13 +57,13 @@ social:
   link: https://github.com/mariomolinam
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-- icon: cv
-  icon_pack: ai
-  link: files/cv_mdm.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv_mdm.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "mdmolina@nyu.edu"
-address: 1100C, Social Science Building (A5), New York University Abu Dhabi, Abu Dhabi
+address: 1198B, Social Science Building (A5), New York University Abu Dhabi, Abu Dhabi
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -72,7 +72,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Postdoctoral Associate in the Social Science Division at New York University Abu Dhabi. 
+I am currently a Postdoctoral Associate in the Social Science Division at New York University Abu Dhabi and an incoming assistant professor in the Social Research and Public Policy program at the same institution (Fall 2024). 
 
 My research lies at the interface of economic sociology, social networks, and computational social science. I broadly consider how organizational structures and network dynamics impact beliefs about unequal rewards and prosocial behaviors and the mechanisms that feed back to sustain or disrupt these social systems. I study these processes across multiple domains, including reward systems, status hierarchies, social norms, and cultural diversity. 
 

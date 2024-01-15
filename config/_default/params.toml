@@ -9,7 +9,7 @@ day_night = true
 
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
-font = "default"
+font = "playfair"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = "department of sociology, social networks, computational social science, cornell university, Mario Molina, Mario D. Molina"
@@ -52,7 +52,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "mdmolina@nyu.edu"
 phone = ""
-address = "1100C, A5, New York University Abu Dhabi, Abu Dhabi"
+address = "1198B, A5, New York University Abu Dhabi, Abu Dhabi"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """Monday 10:00 to 13:00<br>
