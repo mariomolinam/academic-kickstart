@@ -32,18 +32,25 @@ Garip, Filiz and **Mario D. Molina** (2021), "Network amplification," chapter 6,
 
 **Molina, Mario** (2013) "Unity between Sensibility and Understanding. The Origin of the Critical Problem" (in Spanish),  *Revista de Filosofia*, vol. LXIX, 195-213. [[article](https://scielo.conicyt.cl/scielo.php?pid=S0718-43602013000100015&script=sci_arttext)]
 
+## Working Papers 
+--
+**Molina, Mario D.**, "To rest on one’s laurels? Effectiveness and stability of status orders."
+
+Drouhot, Lucas, **Mario D. Molina**, and Filiz Garip, "Divided in Diversity? Majority-minority ties and cultural difference in friendship networks among European adolescents."
+
+Makovi, Kinga and **Mario D. Molina**. "Unequal Pay for Unequal Work? Opportunity Regimes and Fairness in the Workplace."
+
+
 ## Work in Progress
 ---
+Occhiutto, Nicholas and **Mario D. Molina**. “The Social Structure of Asset Bubbles: The Case of the Taxicab Medallion in New York City.”
 
+Asad, Asad, **Mario D. Molina**, and Neil Lewis, Jr. "Profiles of psychological distress among noncitizens in the United States, 2011-2018."
 
-**Molina, Mario D.**, "To rest on one's laurels?: Effectiveness and stability of status orders." (*Under review*)
+Pan, Rui, **Mario D. Molina**, and Minsu Park. "Status differences and team disruption among K-pop bands using Wikipedia edits."
 
-Drouhot, Lucas, **Mario D. Molina**, and Filiz Garip, "Identity and relational structure among immigrant adolescents in Western Europe." (*Writing*)
+Bucca, Mauricio and **Mario D. Molina**. "Exposure to inequality, fairness, and tolerance of inequality. An experimental Approach."
 
-Occhiutto, Nicholas and **Mario D. Molina**. “The Social Structure of Asset Bubbles: The Case of the Taxicab Medallion in New York City.” (*Revising manuscript*)
+**Molina, Mario D.**. "The influence of high-status individuals on group-level cooperation."
 
-Asad, Asad, **Mario D. Molina**, and Neil Lewis, Jr., "Profiles of psychological distress among noncitizens in the United States, 2011-2018." (*Data analysis*)
-
-Pan, Rui, **Mario D. Molina**, and Minsu Park. "Status differences and team disruption among K-pop bands using Wikipedia edits." (*Data analysis*)
-
-Makovi, Kinga and **Mario D. Molina**. "Unequal Pay for Unequal Work? Uncertain Performance and Fairness in the Workplace" (*Writing*)
+**Molina, Mario D.**. "Does the cultural environment determine tolerance for inequality?"
