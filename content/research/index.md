@@ -33,7 +33,7 @@ Garip, Filiz and **Mario D. Molina** (2021), "Network amplification," chapter 6,
 **Molina, Mario** (2013) "Unity between Sensibility and Understanding. The Origin of the Critical Problem" (in Spanish),  *Revista de Filosofia*, vol. LXIX, 195-213. [[article](https://scielo.conicyt.cl/scielo.php?pid=S0718-43602013000100015&script=sci_arttext)]
 
 ## Working Papers 
---
+---
 **Molina, Mario D.**, "To rest on one’s laurels? Effectiveness and stability of status orders."
 
 Drouhot, Lucas, **Mario D. Molina**, and Filiz Garip, "Divided in Diversity? Majority-minority ties and cultural difference in friendship networks among European adolescents."
