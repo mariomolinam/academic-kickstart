@@ -63,7 +63,7 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "mdmolina@nyu.edu"
-address: 1198B, Social Science Building (A5), New York University Abu Dhabi, Abu Dhabi
+address: A5-1195, Social Science Building, New York University Abu Dhabi, Abu Dhabi
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -72,11 +72,9 @@ user_groups:
 - Visitors
 ---
 
-I am currently a Postdoctoral Associate in the Social Science Division at New York University Abu Dhabi and an incoming assistant professor in the Social Research and Public Policy program at the same institution (Fall 2024). 
+I am an assistant professor in the Social Research and Public Policy program at NYU Abu Dhabi. 
 
-My research lies at the interface of economic sociology, social networks, and computational social science. I broadly consider how organizational structures and network dynamics impact beliefs about unequal rewards and prosocial behaviors and the mechanisms that feed back to sustain or disrupt these social systems. I study these processes across multiple domains, including reward systems, status hierarchies, social norms, and cultural diversity. 
-
-My approach to research is to choose the methodological tool that fits the theoretical question at hand, which has led me to learn different computational and methodological skills, such as experimental design, multilevel modeling, network models, machine learning, and natural language processing.
+My research lies at the interface of economic sociology, social networks, and computational social science. I broadly consider how organizational structures and network dynamics impact beliefs about unequal rewards and prosocial behaviors and the mechanisms that feed back to sustain or disrupt these social systems. In my research, I use a diverse methodological toolkit, including experiments, networks, big data, machine learning, and natural language pocessing tools. 
 
 You can see {{% staticref "files/cv_mdm.pdf" "newtab" %}}my CV here.{{% /staticref %}}
 
