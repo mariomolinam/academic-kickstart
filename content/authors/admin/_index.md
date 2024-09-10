@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Associate
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:

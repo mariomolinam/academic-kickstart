@@ -32,27 +32,27 @@ Garip, Filiz and **Mario D. Molina** (2021), "Network amplification," chapter 6,
 
 **Molina, Mario** (2013) "Unity between Sensibility and Understanding. The Origin of the Critical Problem" (in Spanish),  *Revista de Filosofia*, vol. LXIX, 195-213. [[article](https://scielo.conicyt.cl/scielo.php?pid=S0718-43602013000100015&script=sci_arttext)]
 
-## Working Papers 
+## Working Papers and Under Review
 ---
-**Molina, Mario D.** "To rest on one’s laurels? Effectiveness and stability of status orders."
+**Molina, Mario D.** "To rest on one’s laurels? Limitations of status orders for cooperation systems."
 
 Drouhot, Lucas, **Mario D. Molina**, and Filiz Garip, "Divided in Diversity? Majority-minority ties and cultural difference in friendship networks among European adolescents."
 
 Makovi, Kinga and **Mario D. Molina**. "Unequal Pay for Unequal Work? Opportunity Regimes and Fairness in the Workplace."
 
+Occhiutto, Nicholas and **Mario D. Molina**. “Brokering price bubbles: The case of the taxicab medallion bubble in New York City.”
 
 ## Work in Progress
 ---
+Bucca, Mauricio and **Mario D. Molina**. "Do people **really** prefer unequal societies? An experimental study on fairness concerns."
+
 **Molina, Mario D.** "The influence of high-status individuals on group-level cooperation."
 
-**Molina, Mario D.** "Does the cultural environment determine tolerance for inequality?"
+**Molina, Mario D.** and Mauricio Bucca. "Is fairness contagious? An online experiment on the spread of fairness beliefs."
 
-Occhiutto, Nicholas and **Mario D. Molina**. “The Social Structure of Asset Bubbles: The Case of the Taxicab Medallion in New York City.”
-
-Asad, Asad, **Mario D. Molina**, and Neil Lewis, Jr. "Profiles of psychological distress among noncitizens in the United States, 2011-2018."
+Asad, Asad, Amy Johnson, and **Mario D. Molina**. "On the margins: Categorical typicality and psychological distress in the United States, 2011-2018."
 
 Pan, Rui, **Mario D. Molina**, and Minsu Park. "Status differences and team disruption among K-pop bands using Wikipedia edits."
 
-Bucca, Mauricio and **Mario D. Molina**. "Exposure to inequality, fairness, and tolerance of inequality. An experimental Approach."
-
+**Molina, Mario D.** and Inna Smirnova. "The effect of negative status changes on voluntary contributions to a large Q&A community."
 
