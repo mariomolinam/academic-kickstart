@@ -51,7 +51,7 @@ social:
   link: https://twitter.com/mmolinamaydl
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=yNEyM68AAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=CAOIA1EAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/mariomolinam
@@ -77,4 +77,3 @@ I am an assistant professor in the Social Research and Public Policy program at 
 My research lies at the interface of economic sociology, social networks, and computational social science. I broadly consider how organizational structures and network dynamics impact beliefs about unequal rewards and prosocial behaviors and the mechanisms that feed back to sustain or disrupt these social systems. In my research, I use a diverse methodological toolkit, including experiments, networks, big data, machine learning, and natural language pocessing. 
 
 You can see {{% staticref "files/cv_mdm.pdf" "newtab" %}}my CV here.{{% /staticref %}}
-
