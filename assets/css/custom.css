@@ -1,0 +1,14 @@
+/*
+ * The body font (Fauna One) has no native bold face, so <strong> text can
+ * look nearly identical to surrounding author names. Use the site's loaded
+ * Playfair Display 700 face for the highlighted author on the Research page.
+ */
+.author-self {
+  color: #111;
+  font-family: "Playfair Display", Georgia, serif;
+  font-weight: 700;
+}
+
+.dark .author-self {
+  color: #fff;
+}
